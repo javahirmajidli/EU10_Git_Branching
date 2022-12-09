@@ -6,5 +6,7 @@ public class TC1 {
 
         System.out.println("more times");
         // testing positive tc
+
+        // negative testing
     }
 }
